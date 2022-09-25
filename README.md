@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GilbertoRabello
-- 👀 I’m interested in, html, css, javascript, nodejs etc...
-👀 I’m interested in, Java, Kotlin, Android
-- 🌱 I’m currently learning, html, css, javascript, nodejs, php, mysql, Java, Android.
-- 💞️ I’m looking to collaborate on with web programming
+- 👋 Olá, sou @GilbertoRabello
+- 👀 Sou estudante de Analise e Desenvolvimento de Sistemas
+- 🌱 Atualmente desenvolvendo sistemas em Html, Css, JavaScript, PHP, Mysql, Bootstrap, nodeJs, etc...
+- 💞️ Estou procurando colaborar com programação web
 
 <!---
 GilbertoRabello/GilbertoRabello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
