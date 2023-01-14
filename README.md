@@ -1,6 +1,6 @@
 - 👋 Olá, sou @GilbertoRabello
 - 👀 Curso ensino superior em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente desenvolvendo sistemas em Html, Css, JavaScript, PHP, Mysql, Bootstrap...
+- 🌱 Atualmente desenvolvendo sistemas em PHP, CSS, JS, MYSQL, Bootstrap...
 - 💞️ Estou Desenvolvendo sistemas para pequenas empresas.
 
 
