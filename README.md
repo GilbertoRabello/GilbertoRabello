@@ -1,7 +1,8 @@
 - 👋 Olá, sou @GilbertoRabello
-- 👀 Sou estudante de Analise e Desenvolvimento de Sistemas
-- 🌱 Atualmente desenvolvendo sistemas em Html, Css, JavaScript, PHP, Mysql, Bootstrap, nodeJs, etc...
-- 💞️ Estou procurando colaborar com programação web
+- 👀 Curso ensino superior em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente desenvolvendo sistemas em Html, Css, JavaScript, PHP, Mysql, Bootstrap...
+- 💞️ Estou Desenvolvendo sistemas para pequenas empresas.
+
 
 <!---
 GilbertoRabello/GilbertoRabello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
